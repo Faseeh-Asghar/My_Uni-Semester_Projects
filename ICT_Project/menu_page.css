@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f8f9fc;
+    color: #333;
+}
+
+#websiteName {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#website-name {
+    font-size: 2.5rem;
+    color: #d34848;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#website-name:hover {
+    color: #4e0202;
+}
+
+#nav2 {
+    background-color: #c02a4b;
+    display: flex;
+    justify-content: center;
+    padding: 20px 40px;
+    gap: 30px;
+}
+
+.nav-bar {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: large;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-bar:hover {
+    background-color: white;
+    color: #333;
+}
+
+.menu {
+    padding: 50px;
+    text-align: center;
+}
+
+.menu_h1 {
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 40px;
+}
+
+.section-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #c02a4b;
+}
+
+.menu-item {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    width: 250px;
+    height: 350px;  /* Make all items the same height */
+    margin: 15px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.menu-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.menu-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.menu-item a {
+    text-decoration: none;
+    color: #d34848;
+    font-size: 1.5rem;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.menu-item a:hover {
+    color: #4e0202;
+}
+
+.menu-grid {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.food {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+    .menu-item {
+        width: 45%;
+    }
+
+    .food {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu-item {
+        width: 100%;
+    }
+
+    .section-title {
+        font-size: 2rem;
+    }
+
+    .menu_h1 {
+        font-size: 2.5rem;
+    }
+}

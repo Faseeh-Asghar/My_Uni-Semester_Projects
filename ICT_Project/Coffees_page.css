@@ -1,0 +1,150 @@
+* {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fc;
+    color: #333;
+}
+#websiteName {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#website-name {
+    font-size: 2.5rem;
+    color: #d34848;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#website-name:hover {
+    color: #4e0202;
+}
+
+nav {
+    background-color: #c02a4b;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: large;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+    color: #4e0202;
+    background-color: white;
+}
+
+.container {
+    padding: 50px;
+    text-align: center;
+}
+
+.container h1 {
+    font-size: 3rem;
+    color: #c02a4b;
+    margin-bottom: 40px;
+}
+
+.beverages-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.beverage-category {
+    width: 45%;
+}
+
+.beverage-category h2 {
+    font-size: 2.5rem;
+    color: #c02a4b;
+    margin-bottom: 30px;
+}
+
+.beverage-item {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    width: 100%;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.beverage-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.beverage-item img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.beverage-item .beverage-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    margin: 10px 0;
+}
+
+.beverage-item .beverage-description {
+    font-size: 1rem;
+    color: #777;
+    margin: 10px 0;
+}
+
+.beverage-item button {
+    background-color: #c02a4b;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.beverage-item button:hover {
+    background-color: #4e0202;
+}
+
+@media (max-width: 1024px) {
+    .beverage-category {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .beverage-item img {
+        width: 200px;
+        height: 200px;
+    }
+
+    .container h1 {
+        font-size: 2.5rem;
+    }
+
+    .beverage-category h2 {
+        font-size: 2rem;
+    }
+}

@@ -1,0 +1,87 @@
+/* General Body Styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fffdf7;
+    overflow-x: hidden;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+/* Main Contact Section */
+#contact {
+    text-align: center;
+    gap: 50px;
+    margin-left: 46.5%;
+    text-decoration: none;
+    font-size: x-large;
+    color: #415a77;
+}
+
+#contact:hover {
+    background-color: white;
+    color: #333;
+    text-decoration: none;
+}
+
+/* Heading 1 Styling */
+#heading1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+/* Styling for Contact Info Sections */
+.contact-info {
+    text-align: center;
+    justify-content: center;
+    padding: 40px;
+    margin: 20px auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* First Section (Customer Service) */
+#first {
+    background-color: #83c5be;
+    color: white;
+}
+
+/* Second Section (Media Contacts) */
+#second {
+    background-color: #a2d2ff;
+    color: white;
+}
+
+/* Heading Styles for Sections */
+.contact-info h2, .contact-info h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+/* Paragraphs inside Contact Info */
+.contact-info h3 {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Links Styling (Email and Website) */
+.contact-info a {
+    color: #d34848;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contact-info a:hover {
+    color: #4e0202;
+}
+
+/* Hover Effects for Buttons or Links */
+.contact-info a:hover {
+    background-color: #f0f0f0;
+    color: #4e0202;
+}

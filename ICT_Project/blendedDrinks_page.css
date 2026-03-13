@@ -1,0 +1,131 @@
+* {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fc;
+    color: #333;
+}
+
+#websiteName {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#website-name {
+    font-size: 2.5rem;
+    color: #d34848;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#website-name:hover {
+    color: #4e0202;
+}
+
+#nav2 {
+    background-color: #c02a4b;
+    display: flex;
+    justify-content: center;
+    padding: 30px 40px 30px 30px;
+    gap: 50px;
+}
+
+.nav-bar {
+    color: white;
+    text-decoration: none;
+    padding: 0 30px;
+    font-size: large;
+    border-radius: 1.1rem;
+    border: 2px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.nav-bar:hover {
+    background-color: white;
+    color: #c02a4b;
+    border-radius: 0.4rem;
+}
+
+.beverage-category {
+    padding: 50px;
+    text-align: center;
+}
+
+.beverage-category h2 {
+    font-size: 3rem;
+    color: #c02a4b;
+    margin-bottom: 40px;
+}
+
+.beverage-item {
+    display: inline-block;
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+}
+
+.beverage-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.beverage-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.beverage-item .beverage-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    margin: 10px 0;
+}
+
+.beverage-item .beverage-description {
+    font-size: 1rem;
+    color: #777;
+    margin: 10px 0;
+}
+
+.beverage-item .order-btn {
+    background-color: #c02a4b;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.beverage-item .beverage-order:hover {
+    background-color: #4e0202;
+}
+
+@media (max-width: 1024px) {
+    .beverage-item {
+        width: 45%;
+    }
+}
+
+@media (max-width: 768px) {
+    .beverage-item {
+        width: 100%;
+    }
+
+    .beverage-category h2 {
+        font-size: 2.5rem;
+    }
+}

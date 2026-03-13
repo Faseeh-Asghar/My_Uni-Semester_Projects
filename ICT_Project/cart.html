@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart</title>
+    <link rel="icon" href="https://static.vecteezy.com/system/resources/previews/007/790/471/non_2x/coffee-cup-icon-coffee-logo-cafe-coffee-shop-coffee-isolated-on-white-background-coffee-shop-illustration-simple-sign-free-vector.jpg">
+    <link rel="stylesheet" href="cart_option.css">
+</head>
+<body>
+
+<div class="cart-container">
+    <h2>Your Cart</h2>
+    <div class="cart-items">
+        <div class="cart-item">
+            <img src="https://via.placeholder.com/150" alt="Coffee" class="item-image">
+            <div class="item-details">
+                <p class="item-name">Espresso Coffee</p>
+                <p class="item-price">$3.50</p>
+                <input type="number" class="item-quantity" value="1" min="1">
+            </div>
+            <button class="remove-btn">Remove</button>
+        </div>
+        <div class="cart-item">
+            <img src="https://via.placeholder.com/150" alt="Donut" class="item-image">
+            <div class="item-details">
+                <p class="item-name">Chocolate Donut</p>
+                <p class="item-price">$2.00</p>
+                <input type="number" class="item-quantity" value="2" min="1">
+            </div>
+            <button class="remove-btn">Remove</button>
+        </div>
+    </div>
+
+    <div class="cart-summary">
+        <p>Total: <span class="total-price">$7.50</span></p>
+        <button class="checkout-btn">Checkout</button>
+    </div>
+</div>
+<script src="java.js"></script>
+</body>
+</html>
