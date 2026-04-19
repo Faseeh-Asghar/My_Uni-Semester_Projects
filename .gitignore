@@ -1,3 +1,22 @@
 .DS_Store
 Thumbs.db
 .vscode/
+# visual studio cache and user files
+
+.vs/
+**/.vs/
+*.suo
+*.user
+*.VC.db
+*.opendb
+*.ipch
+
+# C++ build artifacts
+
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.exe
