@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\CampusGraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\CampusGraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\CampusSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\CampusSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\CampusGraph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\CampusGraph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\AccessRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\AccessRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\PolicyEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\PolicyEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\AccessRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\AccessRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\AccessLog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\AccessLog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\Door.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\Door.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\AccessLog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\AccessLog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\CampusSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\CampusSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\Door.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\Door.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\PolicyEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\PolicyEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{091E6333-D8F5-4595-8B8C-31E447B9382F}|Discrete final smester project\\Discrete final smester project.vcxproj|solutionrelative:Discrete final smester project\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cpp",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\User.cpp",
+              "RelativeDocumentMoniker": "Discrete final smester project\\User.cpp",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\User.cpp",
+              "RelativeToolTip": "Discrete final smester project\\User.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T21:51:39.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.h",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\User.h",
+              "RelativeDocumentMoniker": "Discrete final smester project\\User.h",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\User.h",
+              "RelativeToolTip": "Discrete final smester project\\User.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-25T21:49:43.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PolicyEngine.h",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\PolicyEngine.h",
+              "RelativeDocumentMoniker": "Discrete final smester project\\PolicyEngine.h",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\PolicyEngine.h",
+              "RelativeToolTip": "Discrete final smester project\\PolicyEngine.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T07:18:10.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileManager.h",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\FileManager.h",
+              "RelativeDocumentMoniker": "Discrete final smester project\\FileManager.h",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\FileManager.h",
+              "RelativeToolTip": "Discrete final smester project\\FileManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-28T18:03:32.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Door.h",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\Door.h",
+              "RelativeDocumentMoniker": "Discrete final smester project\\Door.h",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\Door.h",
+              "RelativeToolTip": "Discrete final smester project\\Door.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-25T21:50:03.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CampusSystem.h",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\CampusSystem.h",
+              "RelativeDocumentMoniker": "Discrete final smester project\\CampusSystem.h",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\CampusSystem.h",
+              "RelativeToolTip": "Discrete final smester project\\CampusSystem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T14:57:10.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CampusGraph.h",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\CampusGraph.h",
+              "RelativeDocumentMoniker": "Discrete final smester project\\CampusGraph.h",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\CampusGraph.h",
+              "RelativeToolTip": "Discrete final smester project\\CampusGraph.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-25T21:51:00.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessRule.h",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\AccessRule.h",
+              "RelativeDocumentMoniker": "Discrete final smester project\\AccessRule.h",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\AccessRule.h",
+              "RelativeToolTip": "Discrete final smester project\\AccessRule.h",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-25T21:50:43.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccessLog.h",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\AccessLog.h",
+              "RelativeDocumentMoniker": "Discrete final smester project\\AccessLog.h",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\AccessLog.h",
+              "RelativeToolTip": "Discrete final smester project\\AccessLog.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-25T21:50:22.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccessLog.cpp",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\AccessLog.cpp",
+              "RelativeDocumentMoniker": "Discrete final smester project\\AccessLog.cpp",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\AccessLog.cpp",
+              "RelativeToolTip": "Discrete final smester project\\AccessLog.cpp",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T21:52:13.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\main.cpp",
+              "RelativeDocumentMoniker": "Discrete final smester project\\main.cpp",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\main.cpp",
+              "RelativeToolTip": "Discrete final smester project\\main.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAIBJwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T21:51:26.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CampusGraph.cpp",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\CampusGraph.cpp",
+              "RelativeDocumentMoniker": "Discrete final smester project\\CampusGraph.cpp",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\CampusGraph.cpp",
+              "RelativeToolTip": "Discrete final smester project\\CampusGraph.cpp",
+              "ViewState": "AgIAAGABAAAAAAAAAAAowH4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T21:52:28.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccessRule.cpp",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\AccessRule.cpp",
+              "RelativeDocumentMoniker": "Discrete final smester project\\AccessRule.cpp",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\AccessRule.cpp",
+              "RelativeToolTip": "Discrete final smester project\\AccessRule.cpp",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAowNEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T21:52:02.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CampusSystem.cpp",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\CampusSystem.cpp",
+              "RelativeDocumentMoniker": "Discrete final smester project\\CampusSystem.cpp",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\CampusSystem.cpp",
+              "RelativeToolTip": "Discrete final smester project\\CampusSystem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T14:58:27.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Door.cpp",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\Door.cpp",
+              "RelativeDocumentMoniker": "Discrete final smester project\\Door.cpp",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\Door.cpp",
+              "RelativeToolTip": "Discrete final smester project\\Door.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T21:51:48.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PolicyEngine.cpp",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\PolicyEngine.cpp",
+              "RelativeDocumentMoniker": "Discrete final smester project\\PolicyEngine.cpp",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\PolicyEngine.cpp",
+              "RelativeToolTip": "Discrete final smester project\\PolicyEngine.cpp",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T07:18:29.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileManager.cpp",
+              "DocumentMoniker": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\FileManager.cpp",
+              "RelativeDocumentMoniker": "Discrete final smester project\\FileManager.cpp",
+              "ToolTip": "F:\\Smester3\\Discrete Structure\\Discrete final smester project\\Discrete final smester project\\FileManager.cpp",
+              "RelativeToolTip": "Discrete final smester project\\FileManager.cpp",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T18:03:56.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿  AccessLog.cpp
+F:\Smester3\Discrete Structure\Discrete final smester project\Discrete final smester project\AccessLog.cpp(202,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\Smester3\Discrete Structure\Discrete final smester project\Discrete final smester project\AccessLog.cpp(234,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CampusSystem.cpp
+  FileManager.cpp
+  main.cpp
+  Generating Code...
+  Discrete final smester project.vcxproj -> F:\Smester3\Discrete Structure\Discrete final smester project\x64\Debug\Discrete final smester project.exe
